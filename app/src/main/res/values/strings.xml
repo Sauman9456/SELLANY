@@ -1,0 +1,36 @@
+<resources>
+    <string name="fragment_search">Search</string>
+    <string name="fragment_watch_list">CHATS</string>
+    <string name="fragment_view_post">Post</string>
+    <string name="fragment_post">Sell</string>
+    <string name="fragment_account">Account</string>
+    <string name="dialog_select_photo">SelectPhoto</string>
+    <string name="node_users">users</string>
+    <string name="node_posts">posts</string>
+    <string name="node_elasticsearch">elasticsearch</string>
+    <string name="field_password">password</string>
+    <string name="arg_post_id">arg_post_id</string>
+
+
+    <string name="preferences_country">preferences_country</string>
+    <string name="preferences_state_province">preferences_state_province</string>
+    <string name="preferences_city">preferences_city</string>
+
+
+
+    <string name="app_name">SellAny</string>
+    <string name="title_activity_home2">Home2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

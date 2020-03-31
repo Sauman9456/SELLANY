@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "735244373777",
+    "firebase_url": "https://sellany-71512.firebaseio.com",
+    "project_id": "sellany-71512",
+    "storage_bucket": "sellany-71512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735244373777:android:612b547d8d078ca2c746b0",
+        "android_client_info": {
+          "package_name": "com.example.sellany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735244373777-aq1mois1t301t2vu0ujgf7sjuj4v3jr1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sellany",
+            "certificate_hash": "c665b2c33eb8a69ab0511954fd45164a7c49e2c1"
+          }
+        },
+        {
+          "client_id": "735244373777-tpt514m9fjpavj0fmfd7mm6eamldt4ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXIJqqkx9Vxfu_PRxDPjE2bDTu2MOFh0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735244373777-tpt514m9fjpavj0fmfd7mm6eamldt4ju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
